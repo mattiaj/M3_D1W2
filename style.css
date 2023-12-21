@@ -1,0 +1,23 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.row
+div.row>ul {
+    width: 10rem;
+}
+div.card {
+    border: none;
+}
+li {
+    text-align: center;
+    font-weight: 500;
+}
+ul.col-sm-3>li {
+    text-align: left;
+    background-color:ivory;
+}
+ul.col-sm-3 {
+    background-color: ivory;
+    border: 2px solid ivory;
+    border-radius: 20px;
+}
